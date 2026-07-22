@@ -1,0 +1,11 @@
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.empty-message {
+  text-align: center;
+  color: gray;
+  margin: 20px 0;
+}
